@@ -11,6 +11,7 @@ Here, we create  10 items usually seen in Amazon, K-mart, or any other supermark
 
 # Running the tests
 The program takes data source, Minimum Support in percentage and Minimum Confidence in percentage as input.
+
 Data Source: This is to select where the input is coming from. For this test, the data is coming from one of the five files that were created using Apriori.java.
 Minimum Support: A minimum support is applied to find all frequent itemsets in a database.
 Minimum Confidence: A minimum confidence is applied to these frequent itemsets in order to form rules.
